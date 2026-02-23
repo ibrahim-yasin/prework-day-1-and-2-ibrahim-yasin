@@ -2,7 +2,7 @@
 # AI.SPIRE Pre-Work — Your Submission Repo for Day 1 and Day 2
 
 
-## Apout
+## About
  my name is Ibrahim Yasin.  
 This repository is for the AI.SPIRE Pre-Work assignments for Day 1 and Day 2.  
 It contains my submissions and setup verification.
