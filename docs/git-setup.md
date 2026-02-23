@@ -18,7 +18,7 @@ Run `git config --list` in your terminal and fill in your configured values:
 | `core.autocrlf` |true |
 
 ---
-
+## Setup
 ## Platform
 
 | Field | Your value |
